@@ -1,8 +1,8 @@
 a = int(input())
 b = int(input())
-y = 0
+z = 0
 while a < b:
     a += (a/100)*10
-    y+=1
+    z+=1
     continue
-print(y+1)
+print(z+1)
