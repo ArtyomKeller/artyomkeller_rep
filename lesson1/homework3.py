@@ -1,0 +1,5 @@
+a = str(input())
+a1 = int(a)
+b = int(a*2)
+d = int(a*3)
+print(a1+b+d)
